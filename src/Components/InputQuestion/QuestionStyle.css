@@ -1,0 +1,29 @@
+.navigation-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center ;
+}
+
+.enabled-button {
+
+}
+
+.disabled-button {
+    
+}
+
+.go-back-link {
+    margin-right: 50px;
+}
+
+.step-text {
+    margin-left: 50px;
+}
+
+.options-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
